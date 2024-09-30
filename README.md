@@ -1,4 +1,6 @@
-# JavaScript and Data Structure Master Class by Colt Steele
+# JavaScript Algorithms and Data Structure Master Class by Colt Steele
+
+[Link](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/?couponCode=ACCAGE0923)
 
 - It's important to pay attention to the prerequisites, little text lectures at the beginning of every sections
 
